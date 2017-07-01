@@ -24,7 +24,7 @@ p {
 text-align: center;
 }
 
-#link {
+.link a {
 text-align: center;
 color: lime;
 }

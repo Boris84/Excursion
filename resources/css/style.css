@@ -1,0 +1,30 @@
+.heading {
+color: white;
+font-weight: 800;
+font-family: Helvetica;
+text-align: center;
+font-size: 50px
+}
+
+h2 {
+color: gray;
+font-family: Helvetica;
+text-align: center;
+}
+
+body {
+  background: black;
+}
+
+p {
+  text-align: center;
+}
+
+#video {
+text-align: center;
+}
+
+#link {
+text-align: center;
+color: lime;
+}
